@@ -1,0 +1,1 @@
+Successful pipeline run: https://github.com/tu_usuario/docker-security-scan/actions/runs/13818826551
